@@ -3,7 +3,7 @@
 ## CRUD Animals API
 
 API ini menggunakan MongoDB untuk database, Express untuk web framework, dan Node untuk backend. 
-Aplikasi Web yang kami rancang berupa aplikasi yang menampilkan daftar hewan-hewan pada suatu shelter. Aplikasi web ini memungkinkan kita untuk bisa melihat apa aja daftar hewan yang masih ada di shelter, kemudian statusnya apakah sudah diadopsi atau belum diadopsi.
+Aplikasi Web yang kami rancang berupa aplikasi yang menampilkan daftar hewan-hewan pada suatu shelter. Aplikasi web ini memungkinkan kita untuk bisa melihat apa aja daftar hewan yang masih ada di shelter, kemudian statusnya apakah sudah diadopsi atau yang belum diadopsi.
 Dengan adanya aplikasi web ini, diharapkan dapat mempermudah dalam pendataan dan pengelolaan data pada suatu shelter
 
 ** Anggota Kelompok 8 **:
